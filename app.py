@@ -1,2 +1,3 @@
-def reserva():
-    return "Inicio"
+'def reserva():
+    return "Reserva confirmada en el laboratorio"'
+
