@@ -1,2 +1,2 @@
 def reserva():
-    return "Inicio"
+    return "Hay 15 PCs disponibles"
