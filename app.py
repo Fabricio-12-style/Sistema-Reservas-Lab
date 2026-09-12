@@ -1,0 +1,2 @@
+def reserva():
+    return "Inicio"
